@@ -31,3 +31,5 @@ Running Applications
 ## Live Website
 
 🕸️ https://pl-anime-collections-go-to.vercel.app/#/animes
+
+![Uploading image.png…]()
