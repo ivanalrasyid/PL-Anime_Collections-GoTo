@@ -32,4 +32,5 @@ Running Applications
 
 🕸️ https://pl-anime-collections-go-to.vercel.app/#/animes
 
-![Uploading image.png…]()
+![goto](https://github.com/ivanalrasyid/PL-Anime_Collections-GoTo/assets/83364050/42ac70d6-f006-4cd4-b622-edc3014fdc08)
+
